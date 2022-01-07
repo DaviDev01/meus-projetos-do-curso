@@ -1,0 +1,12 @@
+body {
+    background-color: #f1ded0;
+}
+
+h1 {
+    border-bottom: 3px solid #c7b9ff;
+    width: fit-content; /*Makes the border the size of its content so it doesn't streach from one side to the other*/ 
+}
+
+select {
+    border: solid 3px #ddeae1;
+}
